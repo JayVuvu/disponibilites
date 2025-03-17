@@ -1,0 +1,185 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Orée du Lac//Calendrier Disponibilités//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Disponibilités Chalet
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+DTSTART:20240101T000000Z
+DTEND:20240115T235959Z
+SUMMARY:Réservé - Vacances d'Hiver
+DESCRIPTION:Cette période est déjà réservée pour les vacances d'hiver.
+UID:20240101-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240116T000000Z
+DTEND:20240131T235959Z
+SUMMARY:Disponible - Janvier
+DESCRIPTION:Cette période est disponible à la location.
+UID:20240116-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240201T000000Z
+DTEND:20240214T235959Z
+SUMMARY:Promotion - Saint Valentin
+DESCRIPTION:Offre spéciale pour la Saint-Valentin! Profitez d'une remise de 20%.
+UID:20240201-promo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240215T000000Z
+DTEND:20240229T235959Z
+SUMMARY:Réservé - Vacances de Février
+DESCRIPTION:Cette période est déjà réservée pour les vacances de février.
+UID:20240215-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240301T000000Z
+DTEND:20240315T235959Z
+SUMMARY:Disponible - Début mars
+DESCRIPTION:Cette période est disponible à la location.
+UID:20240301-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240316T000000Z
+DTEND:20240331T235959Z
+SUMMARY:Réservé - Fin Mars
+DESCRIPTION:Cette période est déjà réservée.
+UID:20240316-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240401T000000Z
+DTEND:20240415T235959Z
+SUMMARY:Promotion - Printemps
+DESCRIPTION:Promotion spéciale de printemps avec 15% de réduction!
+UID:20240401-promo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240416T000000Z
+DTEND:20240430T235959Z
+SUMMARY:Disponible - Fin Avril
+DESCRIPTION:Cette période est disponible à la location.
+UID:20240416-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240501T000000Z
+DTEND:20240515T235959Z
+SUMMARY:Réservé - Début Mai
+DESCRIPTION:Cette période est déjà réservée.
+UID:20240501-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240516T000000Z
+DTEND:20240531T235959Z
+SUMMARY:Promotion - Late Spring
+DESCRIPTION:Profitez de nos tarifs promotionnels de fin de printemps!
+UID:20240516-promo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240601T000000Z
+DTEND:20240615T235959Z
+SUMMARY:Disponible - Début Juin
+DESCRIPTION:Cette période est disponible à la location.
+UID:20240601-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240616T000000Z
+DTEND:20240630T235959Z
+SUMMARY:Réservé - Fin Juin
+DESCRIPTION:Cette période est déjà réservée.
+UID:20240616-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240701T000000Z
+DTEND:20240731T235959Z
+SUMMARY:Réservé - Juillet Complet
+DESCRIPTION:Le mois de juillet est entièrement réservé.
+UID:20240701-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240801T000000Z
+DTEND:20240815T235959Z
+SUMMARY:Réservé - Début Août
+DESCRIPTION:Cette période est déjà réservée.
+UID:20240801-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240816T000000Z
+DTEND:20240831T235959Z
+SUMMARY:Disponible - Fin Août
+DESCRIPTION:Cette période est disponible à la location.
+UID:20240816-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240901T000000Z
+DTEND:20240915T235959Z
+SUMMARY:Promotion - Rentrée
+DESCRIPTION:Offre spéciale de rentrée avec 25% de réduction!
+UID:20240901-promo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20240916T000000Z
+DTEND:20240930T235959Z
+SUMMARY:Disponible - Fin Septembre
+DESCRIPTION:Cette période est disponible à la location.
+UID:20240916-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241001T000000Z
+DTEND:20241031T235959Z
+SUMMARY:Réservé - Octobre Complet
+DESCRIPTION:Le mois d'octobre est entièrement réservé.
+UID:20241001-reserv@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241101T000000Z
+DTEND:20241115T235959Z
+SUMMARY:Disponible - Début Novembre
+DESCRIPTION:Cette période est disponible à la location.
+UID:20241101-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241116T000000Z
+DTEND:20241130T235959Z
+SUMMARY:Promotion - Black Friday
+DESCRIPTION:Profitez de nos offres promotionnelles Black Friday!
+UID:20241116-promo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241201T000000Z
+DTEND:20241223T235959Z
+SUMMARY:Disponible - Début Décembre
+DESCRIPTION:Cette période est disponible à la location.
+UID:20241201-dispo@chalet-chatel74.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20241224T000000Z
+DTEND:20250105T235959Z
+SUMMARY:Réservé - Fêtes de fin d'année
+DESCRIPTION:Cette période est déjà réservée pour les fêtes de fin d'année.
+UID:20241224-reserv@chalet-chatel74.com
+END:VEVENT
+
+END:VCALENDAR
